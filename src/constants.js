@@ -1,6 +1,7 @@
-export const API_BASE_URL = "https://aivle-api.leotan.cn";
+// export const API_BASE_URL = "https://aivle-api.leotan.cn";
 // export const API_BASE_URL = "http://127.0.0.1:8000";
 // export const API_BASE_URL = "http://192.168.3.51:8000"
+export const API_BASE_URL = "https://cs5446.comp.nus.edu.sg";
 
 export const ROLE_ADMIN = 'ADM';
 export const ROLE_GUEST = 'GUE';

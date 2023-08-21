@@ -19,7 +19,7 @@ const AdminPanel = () => {
           Links to course admin pages
         </Typography>
         <Typography variant="body1" gutterBottom>
-          Buttons below will redirect to aiVLE Web API pages. Use the same username and password for this website
+          Buttons below will redirect to AiRENA Web API pages. Use the same username and password for this website
           if credential is prompted.
         </Typography>
         <AdminButton variant={"outlined"} href={API_BASE_URL + "/api/v1/tasks/?course=" + id} target="_blank">
