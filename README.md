@@ -1,6 +1,6 @@
-# AiRENA Frontend
+# aiVLE Frontend
 
-React frontend for AiRENA, built with Material UI 5, Redux, React Router, and more...
+React frontend for aiVLE, built with Material UI 5, Redux, React Router, and more...
 
 ## Screenshots
 
