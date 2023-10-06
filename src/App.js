@@ -78,7 +78,7 @@ const MyApp = () => {
           {
             !isLoggedIn
               ? <Button color="inherit" component={RouterLink} to="/signin">Login</Button>
-              : <Button color="inherit" onClick={handleLogout}>{loggedInUsername}</Button>
+              : <Button color="inherit" onClick={handleLogout}>Logout</Button>
           }
           <DarkModeSwitch checked={theme.palette.mode === "dark"} onChange={onSwitchChange}/>
         </Toolbar>
